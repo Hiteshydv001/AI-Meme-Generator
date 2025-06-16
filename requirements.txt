@@ -1,0 +1,7 @@
+# requirements.txt
+opencv-python
+mediapipe
+gymnasium
+stable-baselines3[torch]
+pygame
+numpy
