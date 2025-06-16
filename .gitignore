@@ -24,6 +24,8 @@ __pycache__/
 # TensorBoard logs can get very large.
 /logs/
 /htmlcov/
+memes
+
 .tox/
 .coverage
 .coverage.*
